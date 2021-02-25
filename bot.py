@@ -37,3 +37,5 @@ for x in range(len(lis)):
         "https://api.telegram.org/{}/sendMessage".format(token),
         params=params
         )
+requests.get("https://api.telegram.org/bot1666045843:AAEIzQl3CIEUVf0c71Hh2pJZYlgez5hxjMM/sendMessage?chat_id=@bobthedog&text='bot is working'")
+       
