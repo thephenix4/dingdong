@@ -37,5 +37,5 @@ for x in range(len(lis)):
         "https://api.telegram.org/{}/sendMessage".format(token),
         params=params
         )
-requests.get("https://api.telegram.org/bot1666045843:AAEIzQl3CIEUVf0c71Hh2pJZYlgez5hxjMM/sendMessage?chat_id=@bobthedog&text='bot is working'")
+requests.get("https://api.telegram.org/bot1666045843:AAEIzQl3CIEUVf0c71Hh2pJZYlgez5hxjMM/sendMessage?chat_id=@bobthedog&text=hey it's dingdong and i am continuously scrapping this url bceceboard.bihar.gov.in/UGEACexIndex.php. evry 10 minutes and if i found something i will notify u")
        
