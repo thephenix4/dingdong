@@ -1,1 +1,1 @@
-worker:python dingdong/bot.py
+worker:python bot.py
